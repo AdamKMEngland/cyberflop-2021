@@ -27,5 +27,5 @@ while play and play[0] == 'y':
   play = play.lower()
 
 
-print("Thanks for p-p-p-p-p-playing! ")
+print("Thanks for p-p-p-p-playing! ")
 
