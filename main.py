@@ -19,7 +19,7 @@ while play and play[0] == 'y':
   noun = input("Give me a noun: ")
   adjective = input("Give me an adjective: ")
 
-  story = f"{exclamation}! he said {adverb} we have a city to {noun} he then put on his glasses and walked away with his {adjective} wife"
+  story = f"{exclamation}! he said {adverb} as he jumped into his super mega {noun} and flew into space getting ready to fight the final boss that plauged the world with it's {adjective} smell"
 
   print(story)   
 
