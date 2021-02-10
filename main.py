@@ -1,6 +1,6 @@
 #madlibs game!
 
-print("Welcome to the mad libs game! Samurai, you better cyberpump yourself up for this game, its taken 7 years of hard work and glitchproccessing to make, wake the heck up samurai! ")
+print("Welcome to the mad libs game! Samurai, you better cyberpump yourself up for this game, its taken 7 years of hard work and glitchproccessing to make, so, wake the heck up samurai! ")
 
 play = input("Are you ready to play? ")
 #if they answer with some type of yes, then we will play, otherwise we won't
